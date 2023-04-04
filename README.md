@@ -2,7 +2,7 @@
 This repository contains a Student Information Portal UI that has been augmented using Human Computer Interaction principles.
 
 ## Problem Statement 
-1) Pick and website of your choice and find all usablity problems.
+1) Pick any website of your choice and find all usablity problems.
 2) Develop a solution based on HCI principles.
 
 ## Performance metrics
