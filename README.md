@@ -14,6 +14,7 @@ This repository contains a Student Information Portal UI that has been augmented
 5) Visibility: All important controls can be located easily.
 6) Learnability: Tooltips and a help feature has been added to improve how fast users adapt to the site.
 7) Accessebility: A dark mode feature has been added to reduce eye strain in low-light environments.
+8) Internationalisation: The improved site can be adapted to different languages.
 
 ## Screenshots
 ### Orignal Student Information Portal.
@@ -22,5 +23,4 @@ This repository contains a Student Information Portal UI that has been augmented
 ### Improved Student Information Portal.
 ![SIP-new](https://user-images.githubusercontent.com/95528341/229899675-177ef9f4-f256-43c8-a8bd-dfaf0c02a7b9.PNG)
 
-##Extras
-Internationalisation: The improved site can be adapted to different languages.
+
