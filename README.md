@@ -19,4 +19,4 @@ This repository contains a Student Information Portal UI that has been augmented
 ![SIP-old](https://user-images.githubusercontent.com/95528341/229899347-4a015d46-5f08-43e3-aec7-367f8b7ef405.PNG)
 
 ### Improved Student Information Portal.
-
+![SIP-new](https://user-images.githubusercontent.com/95528341/229899675-177ef9f4-f256-43c8-a8bd-dfaf0c02a7b9.PNG)
